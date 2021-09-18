@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codewars.com/users/ZakStar17" target="blank"><img align="center" src="https://www.codewars.com/users/ZakStar17/badges/large" alt="zakstar" height="40" /></a>
+<a href="https://www.codewars.com/users/ZakStar17" target="blank"><img align="center" src="https://www.codewars.com/users/ZakStar17/badges/large" alt="zakstar" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
