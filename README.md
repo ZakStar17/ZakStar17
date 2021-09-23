@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zakhar Starinski</h1>
 <h3 align="center">A full stack learner</h3>
 
-- I’m currently working on and looking for help [a OpenGL rust project](https://github.com/ZakStar17/testing-with-glium)
+- I’m currently working on and looking for help in a [OpenGL rust project](https://github.com/ZakStar17/testing-with-glium)
 
-- I’m currently learning **Machine learning, OpenGL**
+- I’m currently learning **Machine learning, OpenGL**, and planing to take a look at Vulkan
 
 - Reach me at **zakstarinskibusiness@gmail.com**
 
