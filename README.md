@@ -5,7 +5,7 @@
 
 - I’m currently learning **Machine learning, OpenGL**, and planing to take a look at Vulkan
 
-- Reach me at **zakstarinskibusiness@gmail.com**
+- Reach me at **zakharstarinski17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
