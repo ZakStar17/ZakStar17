@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zakhar Starinski</h1>
 <h3 align="center">A full stack learner</h3>
 
-- I was working on an [OpenGL rust project](https://github.com/ZakStar17/testing-with-glium), but currently I am planning to migrate it to Vulkan, by using [Vulkano](https://github.com/vulkano-rs/vulkano) as a more high-level wrapper
+- I was working on an [OpenGL rust project](https://github.com/ZakStar17/testing-with-glium), but currently I am planning to migrate it to Vulkan, by using [Vulkano](https://github.com/vulkano-rs/vulkano) as a correspondent high-level wrapper
 
 - I’m currently learning Graphics Programming, but I also want to take a look of how I can integrate it with machine learning and AI
 
-- Also, I look forward to starting contributing to open source, in some way
+- Also, in the near future, I look forward to starting contributing to open source, in some way
 
 - Reach me at **zakharstarinski17@gmail.com**
 
