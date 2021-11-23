@@ -5,7 +5,7 @@
 
 - I’m currently learning Graphics Programming, but I also want to take a look of how I can integrate it with machine learning and AI
 
-- Also, in the near future, I look forward to starting contributing to open source, in some way
+- Also, in the near future, I will look forward to starting contributing to open source, in some way
 
 - Reach me at **zakharstarinski17@gmail.com**
 
