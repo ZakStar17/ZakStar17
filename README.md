@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zakhar Starinski</h1>
 <h3 align="center">A full stack learner</h3>
 
-- I’m currently working on and looking for help with an [OpenGL rust project](https://github.com/ZakStar17/testing-with-glium)
+- I was working on an [OpenGL rust project](https://github.com/ZakStar17/testing-with-glium), but currently I am planning to migrate it to Vulkan, by using [Vulkano](https://github.com/vulkano-rs/vulkano) as a more high-level wrapper
 
-- I’m currently learning **Machine learning, OpenGL**, and planing to take a look at Vulkan
+- I’m currently learning Graphics Programming, but I also want to take a look of how I can integrate it with machine learning and AI
+
+- Also, I look forward to starting contributing to open source, in some way
 
 - Reach me at **zakharstarinski17@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My "achievements":</h3>
 <p align="left">
 <a href="https://www.codewars.com/users/ZakStar17" target="blank"><img align="center" src="https://www.codewars.com/users/ZakStar17/badges/large" alt="zakstar" height="30" /></a>
 </p>
