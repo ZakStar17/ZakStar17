@@ -2,7 +2,7 @@
 
 ### Currently
  - Studying Computer Science at University of Porto (Portugal).
- - Learning Graphics Programming, with the help of the [Vulkan](https://www.vulkan.org/) APId.
+ - Learning Graphics Programming, with the help of the [Vulkan](https://www.vulkan.org/) API.
  
 ### Languages (most to least favorite)
 <p align="left">
