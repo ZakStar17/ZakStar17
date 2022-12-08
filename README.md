@@ -1,9 +1,8 @@
 # Hello, I'm Zakhar Starinski
 
 ### Currently
- - Studying Computer Science at University of Porto (Portugal)
- - Learning Graphics Programming, with special attention to the [Vulkan](https://www.vulkan.org/) API
- and experimenting with [Vulkano](https://github.com/vulkano-rs/vulkano) in a separate project.
+ - Studying Computer Science at University of Porto (Portugal).
+ - Learning Graphics Programming, with the help of the [Vulkan](https://www.vulkan.org/) APId.
  
 ### Languages (most to least favorite)
 <p align="left">
@@ -39,7 +38,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
