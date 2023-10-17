@@ -1,8 +1,7 @@
-# Hello, I'm Zakhar Starinski
 
-### Currently
+### Current situation
  - Studying Computer Science at University of Porto (Portugal).
- - Learning Graphics Programming, with the help of the [Vulkan](https://www.vulkan.org/) API.
+ - Learning Graphics Programming, particularly [Vulkan](https://www.vulkan.org/).
  
 ### Languages (most to least favorite)
 <p align="left">
